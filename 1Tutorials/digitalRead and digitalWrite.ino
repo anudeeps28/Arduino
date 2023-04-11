@@ -20,3 +20,5 @@ void loop() { // loops repeatedly after we have turned the arduino ON; this is t
   digitalWrite(led, LOW);
   delay(1000);
 }
+
+// Simulation Setup: https://www.tinkercad.com/things/0a5oquP0Ztj
